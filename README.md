@@ -2,8 +2,8 @@
 Welcome to myChatroom, your go-to place for real-time conversations! Type the room name to join the chat room and ensure you and your friend enter the same room name to connect seamlessly. Let's get chatting!
 
 ### links
-https://mychatroom-f6bb0.web.app/
-https://mychatroom-f6bb0.firebaseapp.com/
+- https://mychatroom-f6bb0.web.app/
+- https://mychatroom-f6bb0.firebaseapp.com/
 
 
 ## Technologies used
