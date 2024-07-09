@@ -1,3 +1,47 @@
+# myChatroom
+Welcome to myChatroom, your go-to place for real-time conversations! Type the room name to join the chat room and ensure you and your friend enter the same room name to connect seamlessly. Let's get chatting!
+
+### links
+https://mychatroom-f6bb0.web.app/
+https://mychatroom-f6bb0.firebaseapp.com/
+
+
+## Technologies used
+*ReactJS for frontend
+*Firebase for backend
+Hosted at Firebase
+
+## Screenshots
+![Screenshot (446)](https://github.com/roushandas02/myChatroom/assets/100259231/72c163f7-6445-4cd2-aaf3-73f564507d76)
+
+![Screenshot (445)](https://github.com/roushandas02/myChatroom/assets/100259231/1a8ffc14-959d-4140-900f-3eff1aca33d8)
+
+![Screenshot (447)](https://github.com/roushandas02/myChatroom/assets/100259231/3e325cc0-1093-47fc-9004-bb6b5cbeeaf2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
