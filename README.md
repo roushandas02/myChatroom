@@ -7,9 +7,9 @@ https://mychatroom-f6bb0.firebaseapp.com/
 
 
 ## Technologies used
-*ReactJS for frontend
-*Firebase for backend
-Hosted at Firebase
+- ReactJS for frontend
+- Firebase for backend
+- Hosted at Firebase
 
 ## Screenshots
 ![Screenshot (446)](https://github.com/roushandas02/myChatroom/assets/100259231/72c163f7-6445-4cd2-aaf3-73f564507d76)
